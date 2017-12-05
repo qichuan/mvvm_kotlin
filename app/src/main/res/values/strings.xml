@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM_Kotlin</string>
+    <string name="name">Name: </string>
+    <string name="age">Age: </string>
+    <string name="gender">Gender: </string>
+    <string name="cta">Grow old</string>
+</resources>
